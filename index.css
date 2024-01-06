@@ -1,0 +1,48 @@
+body {
+    background-color:#FFF;
+    
+  }
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 351;
+  height:113;
+  }
+
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    border-style: none;
+    width:90%;
+  }
+
+  .first{
+    background-color: #EEE;
+    text-align: center;
+  }
+
+  .second{
+    background-color: #7EE5DA;
+    text-align: center;
+    width:37%;
+   
+  }
+
+  .thirth{
+    background-color: #70CCC2;
+    text-align: center;
+    font-size: small;
+  }
+
+  .fourth{
+    background-color: #62B3AA;
+    text-align: center;
+    font-size: small;
+  }
+  
+  p {
+    text-align: center;
+    font-size: small;
+  }
