@@ -1,2 +1,2 @@
 # google1998
-![](google1998.jpg)
+![](google1998.png)
